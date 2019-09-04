@@ -1,4 +1,4 @@
-# Grocery List is Scrambled
+# Salad Man
 [x] Points: 20
 [x] Solves: 0
 
