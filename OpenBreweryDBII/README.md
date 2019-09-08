@@ -18,14 +18,14 @@ Flag Format: fresher{<number of cities>}
 ```
 
 ## Solution
-'''
+```
 pip install git+https://github.com/wbowditch/openbrewerydb-python.git
-'''
+```
 
-'''python
+```python
 >>> import openbrewerydb
 >>> openbrewerydb.load(state='connecticut').city.unique().size
 71
-'''
+```
 ##Flag
 fresher{71}

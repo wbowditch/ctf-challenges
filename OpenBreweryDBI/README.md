@@ -14,7 +14,7 @@ Flag Format: fresher{<year brewery was founded>}
 ```
 
 ## Solution
-'''
+```
 (base) bill:FreshersCTF20 williambowditch$ curl https://api.openbrewerydb.org/breweries\?by_city=boston\&by_type=regional | python -m json.tool
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
@@ -37,7 +37,7 @@ Flag Format: fresher{<year brewery was founded>}
         "website_url": "http://www.harpoonbrewery.com"
     }
 ]
-'''
+```
 Navaigate to harpoonbrewery.com to find https://www.harpoonbrewery.com/who-we-are/history/, which will give you the founding year 1986.
 
 

@@ -12,14 +12,14 @@ Flag Format: fresher{<name of city>}
 ```
 
 ## Solution
-'''
+```
 pip install git+https://github.com/wbowditch/openbrewerydb-python.git
-'''
+```
 
-'''python
+```python
 >>> import openbrewerydb
 >>> openbrewerydb.load(state='california').city.value_counts().index[4].encode('utf-8')
 'Anaheim'
-'''
+```
 ##Flag
 fresher{Anaheim}
