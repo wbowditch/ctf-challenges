@@ -18,7 +18,7 @@ flag format = fresher{...}
 ```
 ```python
 ## Solution
-def caesar(plaintext, code):
+def vigenere(plaintext, code):
 	plaintext = plaintext.lower()
 	code = code.lower()
 	import string
@@ -38,6 +38,6 @@ def caesar(plaintext, code):
 
 
 
-print caesar("d pihi, d fir, q jemnlrz{pbtovvkfiqgv}", "veni")
+print vigenere("d pihi, d fir, q jemnlrz{pbtovvkfiqgv}", "veni")
 i came, i saw, i fresher{loltrickedya}
 ```
