@@ -10,4 +10,11 @@ At the beginning of each challenge, you will be given a host IP & port number. U
 ## Description 
 Cats cant read. But a linux cat can. using cat, read the file "freshers" to get the flag
 
-Advice: many commands will also have different parameters you can set. To view the usuable variables, use the man (short for manual) pages, man <name of command> e.g. "man cat"
+Advice: many commands will also have different parameters you can set. To view the parameters and how to use them, use the man (short for manual) pages, man <name of command> e.g. "man cat"
+
+Flag Format: Fresher{...}
+
+## Solution 
+
+'cat freshers'
+Fresher{CatGoesMeow}
