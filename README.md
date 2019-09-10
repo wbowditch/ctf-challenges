@@ -40,6 +40,8 @@ Secret Code -MD5 -Jim
 
 All or Nothing -binary -Jim
 
+Modern Romans -Base64/ROT6 -Jim
+
 # SQL:
 
 Bank of North Korea -Will
