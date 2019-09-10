@@ -1,6 +1,17 @@
-Description
-This skid can't hide his files properly
+# Sucks
+[x] Points: 30
+[x] Solves: 0
 
-Solution
+## Description
+```
+This skid can't hide his flag properly.
+
+flag format = fresher{...}
+```
+
+## Solution
+
 Change extenstion to zip
-Flag fresher{extractor}
+
+## Flag
+```fresher{extractor}```
