@@ -1,12 +1,17 @@
-End of the line
+# END OF THE LINE
+[x] Points: 30
+[x] Solves: 0
 
-Description
+## Description
+```
+The rebels have hidden a message in the image, find it!
 
-What is at the end of the tunnel?
+flag format = fresher{...}
+```
 
-Flag format: enusec{...}
-
-Solution
+## Solution
 
 Check end of file string
-freshers{always_check_the_end}
+
+## Flag
+```freshers{always_check_the_end}```
