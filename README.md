@@ -1,6 +1,6 @@
 # FreshersCTF20
 
-Stego:
+# Stego:
 
 End Of The Line -Jim
 
@@ -8,11 +8,11 @@ Social Control -Jim
 
 Sucks -Jim
 
-Web:
+# Web:
 
 May The Source Be With You -Will
 
-Linux:
+# Linux:
 
 Forensics Word Cloud -Will
 
@@ -20,11 +20,11 @@ Log Analysis Pr0 -Will
 
 Meow - Karl
 
-Scripts:
+# Scripts:
 
 Garfield -Will
 
-Crypto:
+# Crypto:
 
 Grocery List is Scrambled -Hex -Will
 
@@ -34,11 +34,11 @@ TheBombHasBeenPlanted -Hex text -Will
 
 le chiffre indéchiffrable -Vigenere -Will
 
-SQL:
+# SQL:
 
 Bank of North Korea -Will
 
-API:
+# API:
 
 OpenBreweryDB I -Will
 
@@ -46,10 +46,10 @@ OpenBreweryDB II -Will
 
 OpenBreweryDB III -Will
 
-Wireshark:
+# Wireshark:
 
 Ping Of Death -Will
 
-Misc:
+# Misc:
 
 Lets get musical -crypto style puzzle -Will
