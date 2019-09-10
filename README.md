@@ -42,6 +42,8 @@ All or Nothing -binary -Jim
 
 Modern Romans -Base64/ROT6 -Jim
 
+INCOMING -Morse/ATbash -Jim
+
 # SQL:
 
 Bank of North Korea -Will
