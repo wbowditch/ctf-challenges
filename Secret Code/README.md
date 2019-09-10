@@ -4,7 +4,7 @@
 
 ## Description
 ```
-Sounds like the british FBI but less cool.
+Sounds like the British FBI but less cool.
 
 flag format = fresher{...}
 ```
@@ -15,4 +15,4 @@ MD5 Hash
 
 
 ## Flag
-```freshersfresher{n0t_c00l}}```
+```freshersfresher{n0t_c00l}```
