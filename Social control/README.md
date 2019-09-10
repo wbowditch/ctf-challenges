@@ -1,7 +1,17 @@
-Descrition
+# Social Control
+[x] Points: 30
+[x] Solves: 0
 
-Twitter is telling you something?
+## Description
+```
+Twitter is telling you something? Find the hidden message.
 
-Solution
+flag format = fresher{...}
+```
+
+## Solution
+
 Change phase to reveal text
-fresher{follow_us}
+
+## Flag
+```fresher{follow_us}```
