@@ -4,7 +4,7 @@
 
 ## Description
 ```
-All those ones and zeros???? what couuld they mean???
+All those ones and zeros???? what could they mean???
 
 flag format = fresher{...}
 ```
