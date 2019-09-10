@@ -38,6 +38,8 @@ Basic Boi -Base64 -Jim
 
 Secret Code -MD5 -Jim
 
+All or Nothing -binary -Jim
+
 # SQL:
 
 Bank of North Korea -Will
