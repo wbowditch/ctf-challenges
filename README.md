@@ -34,6 +34,10 @@ TheBombHasBeenPlanted -Hex text -Will
 
 le chiffre indéchiffrable -Vigenere -Will
 
+Basic Boi -Base64 -Jim
+
+Secret Code -MD5 -Jim
+
 # SQL:
 
 Bank of North Korea -Will
